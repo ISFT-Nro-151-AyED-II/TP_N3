@@ -26,8 +26,5 @@ int main()
 
         mostrarHolaGit();
 
-        cout << "Iniciando Secuencia Changuito...\n";
-        cout << "🚀 ¡HOLA CHANGO !! completado!\n";
-
         return 0;
     }
