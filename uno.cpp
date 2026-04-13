@@ -26,5 +26,8 @@ int main()
 
         mostrarHolaGit();
 
+        cout << "Iniciando Secuencia GIT...\n";
+        cout << "🚀 ¡HOLA GIT!! completado!\n";
+
         return 0;
     }
